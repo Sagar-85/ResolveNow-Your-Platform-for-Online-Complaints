@@ -160,12 +160,12 @@ Gain insight into user pain points through data analytics.
 
 Develop protocols and templates for faster, more professional complaint handling.
 
-# OUTCOME 
+# output 
 
-<img width="1902" height="860" alt="Screenshot 2025-07-10 171632" src="https://github.com/user-attachments/assets/49be7ecb-00ca-43de-9e94-22cc94c417c9" />
+<img width="1902" height="848" alt="Screenshot 2025-07-10 180738" src="https://github.com/user-attachments/assets/25a6d555-9bc1-4768-b598-682826449977" />
 
-# DEMO VIDEO
+# demo video
 
-<img width="1301" height="327" alt="Screenshot 2025-07-10 171845" src="https://github.com/user-attachments/assets/5c897327-a9b8-47ad-8bc8-ac2a8568358e" />
+https://github.com/user-attachments/assets/866b9780-2493-4770-8b08-006562c31ba6
 
 
